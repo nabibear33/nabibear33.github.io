@@ -1,0 +1,18 @@
+# Sidebar navigation for posts
+post:
+  - title: All Posts
+    url: /all/
+    category: "all"
+  - title: Languages
+    url: /lang/
+    category: "lang"
+    children:
+      - title: "C"
+        url: /lang/c/
+        category: "c"
+  - title: Code
+    url: /code/
+    category: "code"
+  - title: Misc
+    url: /misc/
+    category: "misc"
