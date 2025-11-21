@@ -1,3 +1,10 @@
+# Top navigation for search
+main:
+  - title: Categories
+    url: /categories/
+  - title: Tags
+    url: /tags/
+
 # Sidebar navigation for posts
 post:
   - title: All Posts
