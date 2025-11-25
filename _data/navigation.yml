@@ -17,6 +17,13 @@ post:
       - title: "C"
         url: /lang/c/
         category: "c"
+  - title: CS
+    url: /cs/
+    category: "cs"
+    children:
+      - title: "이산수학"
+        url: /cs/dm/
+        category: "dm"
   - title: Code
     url: /code/
     category: "code"
