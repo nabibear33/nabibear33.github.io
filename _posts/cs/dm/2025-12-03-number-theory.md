@@ -80,7 +80,7 @@ power = b mod m (예시에서 b=3, m=645)
 
 - ex) $3^{644} \text{ mod } 645$
 $$
-3^{{(1010000100)}_2} \text{ mod } 645\\
+3^{(1010000100)_2} \text{ mod } 645\\
 \Rightarrow 3^{512\cdot 128 \cdot 4} \text{ mod } 645\\
 \Rightarrow (3^{512} \text{ mod } 645)\cdot (3^{128} \text{ mod } 645) \cdot (3^{4} \text{ mod } 645)\\
 \Rightarrow (3^{512} \text{ mod } 645)\cdot (3^{128} \text{ mod } 645) \cdot 81
