@@ -24,6 +24,9 @@ post:
       - title: "이산수학"
         url: /cs/dm/
         category: "dm"
+      - title: "자료구조"
+        url: /cs/ds/
+        category: "ds"
   - title: Code
     url: /code/
     category: "code"
