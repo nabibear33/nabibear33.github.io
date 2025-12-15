@@ -27,6 +27,9 @@ post:
       - title: "자료구조"
         url: /cs/ds/
         category: "ds"
+      - title: "알고리즘"
+        url: /cs/algo/
+        category: "algo"
   - title: Code
     url: /code/
     category: "code"
