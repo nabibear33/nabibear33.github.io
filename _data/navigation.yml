@@ -30,6 +30,9 @@ post:
       - title: "알고리즘"
         url: /cs/algo/
         category: "algo"
+      - title: "그래픽스"
+        url: /cs/graphics/
+        category: "graphics"
   - title: Code
     url: /code/
     category: "code"
