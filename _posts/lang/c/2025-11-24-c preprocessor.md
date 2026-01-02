@@ -16,6 +16,7 @@ show_date: true
 
 ## 예시
 - 헤더 파일이 여러번 포함되는 것을 방지 (그런데 이건 헤더 파일에서 정의를 안쓰면 되는거 아닌가..??)
+
 ```c
 #ifndef HDR
 #define HDR
@@ -24,6 +25,7 @@ show_date: true
 ```
 
 - 다른 파일에서 정의된 매크로를 특정 파일에서 해제하고 싶을 때, 혹은 매크로 아닌 함수임을 명확히 할 때
+
 ```c
 #undef getchar
 
@@ -37,6 +39,7 @@ int getchar(void) { ... }
 
 ## 참고
 - 문자열화 연산자 ```#```(Stringizing operator) : 변수명을 그대로 문자열 변환
+
 ```c
 #define dprint(expr) printf(#expr " = %g\n", expr)
 
