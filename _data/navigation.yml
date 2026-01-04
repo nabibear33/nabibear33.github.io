@@ -17,6 +17,9 @@ post:
       - title: "C"
         url: /lang/c/
         category: "c"
+      - title: "C++"
+        url: /lang/cpp/
+        category: "cpp"
   - title: CS
     url: /cs/
     category: "cs"
