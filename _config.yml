@@ -332,3 +332,6 @@ defaults:
       sidebar:
         - nav: ["post"]
       permalink: /:categories/:title/
+
+
+img_url: "https://s3.ap-southeast-2.amazonaws.com/nabibear33.github.io/images"

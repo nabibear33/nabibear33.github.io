@@ -248,7 +248,7 @@ figure {
 figcaption {
   margin-bottom: 0.5em;
   color: $muted-text-color;
-  font-family: $caption-font-family;
+  font-family: $global-font-family;
   font-size: $type-size-6;
 
   a {
@@ -259,6 +259,27 @@ figcaption {
       color: $link-color-hover;
     }
   }
+}
+
+
+/* Images for Post */
+
+figure.post-figure {
+  display: flex;
+  flex-direction: column;     
+  justify-content: flex-start;
+  align-items: center;
+}
+
+figure.post-figure img {
+  width: auto;                
+  max-width: 90%;
+}
+
+figure.post-figure figcaption {
+  width: auto;                
+  text-align: center;
+  margin-top: 0.4em;
 }
 
 /* Fix IE9 SVG bug */

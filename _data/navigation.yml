@@ -36,6 +36,16 @@ post:
       - title: "그래픽스"
         url: /cs/graphics/
         category: "graphics"
+  - title: 그래픽스 API
+    url : /graphics_api/
+    category: "grpahics_api"
+    children:
+      - title: "OpenGL"
+        url: /graphics_api/opengl/
+        category: "opengl"
+      - title: "DirectX 11"
+        url: /graphics_api/dx11/
+        category: "dx11"
   - title: Code
     url: /code/
     category: "code"
