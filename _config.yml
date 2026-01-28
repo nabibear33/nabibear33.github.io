@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "나비곰"
-  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Home Keeper"
+  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ""
   location         : "Seoul, Korea"
   email            :
   links:
